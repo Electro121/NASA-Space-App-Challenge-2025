@@ -1,4 +1,4 @@
-# AgriSense: NASA-Powered Smart Farming Simulator
+# AgriView: NASA-Powered Smart Farming Simulator
 
 An interactive educational game that simulates farming decisions using NASA's satellite and climate data.
 
@@ -23,5 +23,6 @@ An interactive educational game that simulates farming decisions using NASA's sa
 - Learn from educational pop-ups about NASA data.
 
 ## Deployment
+
 
 Deploy to Streamlit Cloud by connecting your GitHub repo. The main app file is `app.py`.
