@@ -26,3 +26,5 @@ An interactive educational game that simulates farming decisions using NASA's sa
 
 
 Deploy to Streamlit Cloud by connecting your GitHub repo. The main app file is `app.py`.
+
+Prototype Design (Figma): https://www.figma.com/proto/tfg6uJEl978jOrFzi58l4N/AgriView?node-id=1-2&amp;amp%3Bt=zCoUIt1cALEM1ays-1&amp;t=jAGlyaaRavdb2rPf-1
